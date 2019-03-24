@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-03-21T14:52:38-08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///media/richard/TOSHIBA EXT/Open Corpus of Asmjeeg Datooga/Texts/Work files (2017-9-30)/[tcc]_[dato1239]_[tsim1256]_IGS0229_2017-1-25_MM_#!.wav" MIME_TYPE="audio/x-wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:cd77e928-fab7-479e-8cfa-341ae45939a2</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">243</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="36641"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="38164"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="38328"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="39746"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="40238"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="41910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="42820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="48910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="49283"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="51702"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="51776"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="53478"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="54149"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="57732"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="57896"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="60339"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="60383"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="63044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="63115"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="64921"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="65189"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="66712"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="66906"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="68936"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="69234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="70723"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="71126"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="73484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="73708"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="76887"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="77290"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="83208"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="90193"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="93865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="94522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="97701"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="99044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="100747"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="101046"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="103613"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="104389"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="106449"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="106837"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="110452"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="110869"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="112138"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="112452"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="114093"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="115078"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="120579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="121400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="126541"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="127153"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="129108"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="Reference" TIER_ID="REF">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_01</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_02</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_03</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a139" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_04</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a140" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_05</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_06</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_07</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a143" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_08</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_09</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_10</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a146" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_11</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a147" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_12</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_13</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a149" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_14</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_15</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_16</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_17</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_18</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_19</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_20</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_21</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_22</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a158" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_23</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a159" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_24</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_25</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_26</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a162" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>IGS0229_2017-1-25_MM #1_27</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Transcription" PARENT_REF="REF" TIER_ID="Transcription">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a136">
+                <ANNOTATION_VALUE>aniin majatu
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE>aa gam maŋgi
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a138">
+                <ANNOTATION_VALUE>qaj aa qaawastʃ hud
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a139">
+                <ANNOTATION_VALUE>aa gaahis heed gɛ́ɛ́hondanaan amiit gɛ́ɛ́fk aa gɛ́ɛ́nap aqɔ̀deeɲ baa gileeŋg</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a140">
+                <ANNOTATION_VALUE>aa qwahiit gɛ́ɛ́nap gideeʃtajd
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a141">
+                <ANNOTATION_VALUE>geenabs gileeŋg
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a142">
+                <ANNOTATION_VALUE>aqɔ́ni gaakwalaj awetʃand suwaaj dumd
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a143">
+                <ANNOTATION_VALUE>iijaajit dʒeed dumd gaaŋŋeʃi
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a144">
+                <ANNOTATION_VALUE>qaaŋŋɛ́ɛ́tʃ qareemaned aadeenawi
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a145">
+                <ANNOTATION_VALUE>aa daa aadastʃewi
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE>gideʃtajnii
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a147">
+                <ANNOTATION_VALUE>awetʃand aawewew qend
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a148">
+                <ANNOTATION_VALUE>gɛ̀ɛ̀jiin naqeed
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE>aa qaaŋɛ́ɛ̀tʃ dat qaareedeeɲ
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a150">
+                <ANNOTATION_VALUE>gidoo dandajdostʃew aa iimutʃ
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>aa gwand digahaɲ giqamaqaan aa qɔ́t qeend niiɲ qɔ́t qaarɛ̀ɛ̀daɲ
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>aha gwasiin aha asɛ́ɛ́s qaj ed siŋɛ́ɛ̀dɛ̀ɛ̀wi
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a153">
+                <ANNOTATION_VALUE>gadijed qahaɲ nihi asɛ́ɛ́s asimdʒeeg
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a154">
+                <ANNOTATION_VALUE>mutʃ gitʃa
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a155">
+                <ANNOTATION_VALUE>aa gageeʃ ordʒed gaawooŋ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>gidʒawajen otʃamn garm
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a157">
+                <ANNOTATION_VALUE>aa niiɲ seen gigwandaw gideʃtajdaɲ aa gwandaw aqɔ́daɲ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a158">
+                <ANNOTATION_VALUE>amsijid
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a159">
+                <ANNOTATION_VALUE>gidʒɛ́ɛ́hiim dugw
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a160">
+                <ANNOTATION_VALUE>aha gidʒɛ́ɛ́jat dʒeed dugw aa gɛ́ɛ́him dugw haj amwaqaŋat ɲaŋgiidaɲi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>gɛ̀ɛ̀taw aha dugwastʃ aa gabiis gaw qarɛ́ɛ́daɲ gwasin gadijedaɲ ha gwargwɛ́ɛ́daɲ
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a162">
+                <ANNOTATION_VALUE>gid aanaldajdi
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="Swahili Free Translation" PARENT_REF="REF" TIER_ID="FT-SWA">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a136">
+                <ANNOTATION_VALUE>Mimi ni Mayatu,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE>na ni wa Mangi.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a138">
+                <ANNOTATION_VALUE>Zamani nilipokuwa binti
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a139">
+                <ANNOTATION_VALUE>Nilipokua nikaenda unyagoni hatimaye nikashonewa ngozi yangu yenye ushanga.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a140">
+                <ANNOTATION_VALUE>Nikashonewa kibuyu maalum kwa ajili ya vipodozi.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a141">
+                <ANNOTATION_VALUE>Kimeshonewa ushanga
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a142">
+                <ANNOTATION_VALUE>Ngozi hiyo huwa ninaivaa siku tukienda ngoma.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a143">
+                <ANNOTATION_VALUE>Nikifika kwenye ngoma namwanzishia nitakayecheza naye
+.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a144">
+                <ANNOTATION_VALUE>Namsimamisha kijana ninayelingana naye.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a145">
+                <ANNOTATION_VALUE>na ninayelingana naye kiumri</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE>kibuyu hicho maalum cha vipodozi
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a147">
+                <ANNOTATION_VALUE>Siku ya kwenda kuolewa....
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a148">
+                <ANNOTATION_VALUE>kinawekewa mafuta
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE>Na ninapeleka nyumbani kwangu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a150">
+                <ANNOTATION_VALUE>nitaenda kuwa naye na siku nyingine
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>Kama kuna binti wa kwetu mwingine atakayeenda kuolewa  atakuja kukichukua ili aolewe nacho na atakipeleka nyumbani kwake.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>Na ndivyo ilivyo, sisi ndiko tulikotokea zamani.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a153">
+                <ANNOTATION_VALUE>Kwa sisi Waasmjega kazi yetu ndiyo hiyo.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a154">
+                <ANNOTATION_VALUE>Siku nyingine
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a155">
+                <ANNOTATION_VALUE>na ndugu yako wa kiume akioa....
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>Mtaenda kumleta mke nyumbani.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a157">
+                <ANNOTATION_VALUE>Hata yeye naye atakuwa na kibuyu chake na ngozi yake.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a158">
+                <ANNOTATION_VALUE>na wakifika
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a159">
+                <ANNOTATION_VALUE>Ng'ombe wataonyeshwa
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a160">
+                <ANNOTATION_VALUE>na atapelekwa na kuonyeshwa ng'ombe na siku sherehe ikipita</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>Anapewa ng'ombe zake na anaanza kwenda nyumbani kwake afanye kazi na mume wake.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a162">
+                <ANNOTATION_VALUE>Ndivyo ninavyojua
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="English Free Translation" PARENT_REF="REF" TIER_ID="FT-ENG">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a136">
+                <ANNOTATION_VALUE>I am Mayatu.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE>of the Mangi family.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a138">
+                <ANNOTATION_VALUE>In the old days when I was a daughter</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a139">
+                <ANNOTATION_VALUE>When I grew I went to the meeting of the youths and I was made some clothes with beads.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a140">
+                <ANNOTATION_VALUE>I was sewn a special gourd for cosmetics.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a141">
+                <ANNOTATION_VALUE>It had beads sewn around it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a142">
+                <ANNOTATION_VALUE>This animal skin I would wear when we went to ngoma.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a143">
+                <ANNOTATION_VALUE>When I arrive at the ngoma I choose the person I will dance with.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a144">
+                <ANNOTATION_VALUE>I choose a boy with the same age as me.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a145">
+                <ANNOTATION_VALUE>I am the same age as him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE>That gourd...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a147">
+                <ANNOTATION_VALUE>On the day I go to get married.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a229" ANNOTATION_REF="a148">
+                <ANNOTATION_VALUE>Oil is put inside.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE>I wake up and go to my home.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a150">
+                <ANNOTATION_VALUE>I went to to be with him and another day...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>If there is another girl from our family who is going to be married, she will take the gourd with her to her new family.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>This is how it was, this is where we came from.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a153">
+                <ANNOTATION_VALUE>For us Asimjeeg, this is our work.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a154">
+                <ANNOTATION_VALUE>Another day...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a155">
+                <ANNOTATION_VALUE>And if your brother marries...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>You will go to bring the wife home.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a157">
+                <ANNOTATION_VALUE>Even she will have her own gourd.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a158">
+                <ANNOTATION_VALUE>and if they arrive</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a159">
+                <ANNOTATION_VALUE>The cows will be shown.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a241" ANNOTATION_REF="a160">
+                <ANNOTATION_VALUE>And she will be sent to be shown cows and after the celebration...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>She is given her cows and then she starts to go to her home and begin work with her husband.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a162">
+                <ANNOTATION_VALUE>This is what I know.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="English" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Swahili" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="English Notes" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="English Free Translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Swahili Free Translation" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Reference" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Transcription" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
