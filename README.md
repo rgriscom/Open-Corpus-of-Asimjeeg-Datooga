@@ -49,9 +49,9 @@ To search across multiple files, open ELAN and click Search > Structured Search 
 ### 1.7 Restrictions on use of the corpus / Creative Commons License
 The OCAD corpus, including all audio files, annotations, and metadata contained within, is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. This license allows you to share the corpus in any medium or format, and to remix, transform, and build upon it. You must give appropriate credit when sharing the material, including a link to the CC license, and you must indicate if any changes have been made. You may not use the material for commercial purposes, and if you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
 
-For further information about this license please read the following information:
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+<p>For further information about this license please read the following information:
+<p>https://creativecommons.org/licenses/by-nc-sa/4.0/
+<p>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 
 ## Section 2: CONTACT INFORMATION
