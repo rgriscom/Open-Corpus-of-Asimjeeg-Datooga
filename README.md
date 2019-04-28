@@ -5,14 +5,14 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 
 ## CONTENTS:
 1. Overview
-	1.1 General Description
-	1.2 Language Description
-	1.3 Organization of the Corpus
-	1.4 Development of the Corpus
-	1.5 How to Download the Corpus
-	1.6 How to Use the Corpus
-	1.7 Restrictions on use of the corpus / Creative Commons License
-3. Contact Information
+1.1 General Description
+1.2 Language Description
+1.3 Organization of the Corpus
+1.4 Development of the Corpus
+1.5 How to Download the Corpus
+1.6 How to Use the Corpus
+1.7 Restrictions on use of the corpus / Creative Commons License
+2. Contact Information
 
 	
 ## Section 1: OVERVIEW
@@ -54,7 +54,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 
-## Section 3: CONTACT INFORMATION
+## Section 2: CONTACT INFORMATION
 
 Feel free to contact me using the information below:
 
