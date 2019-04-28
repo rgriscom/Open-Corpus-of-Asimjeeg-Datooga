@@ -1,18 +1,18 @@
 # Open-Corpus-of-Asimjeeg-Datooga
 Version: 0.01
-Last Updated: 2019-04-28
-This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. To view a copy of the license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+<p>Last Updated: 2019-04-28
+<p>This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License. To view a copy of the license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 ## CONTENTS:
 1. Overview
-1.1 General Description
-1.2 Language Description
-1.3 Organization of the Corpus
-1.4 Development of the Corpus
-1.5 How to Download the Corpus
-1.6 How to Use the Corpus
-1.7 Restrictions on use of the corpus / Creative Commons License
-2. Contact Information
+<p><t>1.1 General Description
+<p>1.2 Language Description
+<p>1.3 Organization of the Corpus
+<p>1.4 Development of the Corpus
+<p>1.5 How to Download the Corpus
+<p>1.6 How to Use the Corpus
+<p>1.7 Restrictions on use of the corpus / Creative Commons License
+<p>2. Contact Information
 
 	
 ## Section 1: OVERVIEW
@@ -56,12 +56,9 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
 ## Section 2: CONTACT INFORMATION
 
-Feel free to contact me using the information below:
-
 Richard Griscom
 rgriscom@gmail.com
-University of Oregon
-Eugene, OR 97403
+http://richardtgriscom.wordpress.com/
 
 
 
